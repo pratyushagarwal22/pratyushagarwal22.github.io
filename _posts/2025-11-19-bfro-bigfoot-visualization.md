@@ -10,7 +10,7 @@ tags: [data-visualization, altair, vega-lite, is445]
     The Data
   </a>
   &nbsp;
-  <a class="btn btn-secondary" href="https://github.com/pratyushagarwal22/pratyushagarwal22.github.io/blob/main/python_notebooks/bigfoot_reports_assignment.ipynb" target="_blank">
+  <a class="btn btn-secondary" href="https://github.com/pratyushagarwal22/pratyushagarwal22.github.io/blob/main/python_notebooks/Workbook.ipynb" target="_blank">
     The Analysis
   </a>
 </p>
